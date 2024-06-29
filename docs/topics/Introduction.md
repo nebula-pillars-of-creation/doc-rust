@@ -55,7 +55,7 @@ This guide is structured like a game, with each level representing a new area of
 > Experiment with the code. Don’t be afraid to make mistakes. That’s part of the learning process.
 > {style="note"}
 
-```rust
+```text
 fn greet_world(name: &str) {
     // Print a hello world message
     println!("Hello, {} World!", name);
